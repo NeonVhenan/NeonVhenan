@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 🌱 I’m currently enrolled in 2nd year of MSc IMAGINE (imgages and video games) at Montpellier University, France <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
 👀 I’m looking to work as a Gameplay Programmer, an UI Programmer or, later as a Level Designer <br/>
+💬 French, English mostly <br/>
 📫 How to reach me: <a href="linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a>
