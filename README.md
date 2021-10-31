@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+--> 
 👋 Hi, I’m Pauline, also known as Eirin (ɪərɪn) and I'm French (she/her) <br/>
 🌱 I’m currently enrolled in 2nd year of MSc IMAGINE (imgages and video games) at Montpellier University, France <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
 👀 I’m looking to work as a Gameplay Programmer, an UI Programmer or, later as a Level Designer <br/>
 💬 French, English mostly <br/>
-📫 How to reach me: <a href="linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a>
+📫 How to reach me: <a href="linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a> <br/>
+🔭 Educational plateform realized during my 2-year technical degree (DUT) intership: <a href="https://hub.docker.com/r/nharelys/ctf?fbclid=IwAR0ldj-FaFVvXaWDrzCUlQIgv1UkP6c5ZmCLCGhJRAjh1mDrGnd-0MhtwEQ">FantasyBook</a>
