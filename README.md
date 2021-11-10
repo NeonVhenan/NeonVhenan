@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 👋 Hi, I’m Pauline, also known as Eirin (ɪərɪn) and I'm French (she/her) <br/>
-🌱 I’m currently enrolled in 2nd year of MSc IMAGINE (imgages and video games) at Montpellier University, France <br/>
+🌱 I’m currently enrolled as a 2nd year of MSc IMAGINE (imgages and video games) student at Montpellier University, France & previously enrolled as a BSc Digital Media student at Robert Gordon University aka RGu in Aberdeen, Scotland, UK <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
 👀 I’m looking to work as a Gameplay Programmer, an UI Programmer or, later as a Level Designer <br/>
 💬 French, English mostly <br/>
