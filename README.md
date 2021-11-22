@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently enrolled as a 2nd year of MSc IMAGINE (imgages and video games) student at Montpellier University, France <br/>
 ⚡ Previously enrolled as a BSc Digital Media student at Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
+✨ GOOD MORNING THEDAS Podcasrs co-host since 2020<br\>
 👀 I’m looking to work as a Gameplay Programmer, an UI Programmer or, later as a Level Designer <br/>
 💬 French, English mostly <br/>
 📫 How to reach me: <a href="https://www.linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a> <br/>
