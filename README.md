@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-👋 Hi, I’m Pauline, and I'm French (she/her) <br/>
-🌱 I’m currently enrolled as a 2nd year of MSc IMAGINE (imgages and video games) student at Montpellier University, France <br/>
+👋 Hi, My name is Pauline, and I'm French (she/her) <br/>
+🌱 I’m currently enrolled as a Junior Tools Programmer at Ubisoft Montpellier (France) as part of my Master degree at the University of Montpellier, France <br/>
 ⚡ Previously enrolled as a BSc Digital Media student at Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
-✨ GOOD MORNING THEDAS Podcasrs co-host since 2020 <br/>
-👀 I’m looking to work as a Gameplay Programmer, an UI Programmer or, later as a Level Designer <br/>
-💬 French, English mostly <br/>
+✨ GOOD MORNING THEDAS Podcasrs co-host since June 2020 <br/>
+👀 I’m looking to work as a Gameplay Programmer, or, later, as a Game/Narrative Designer <br/>
+💬 French and English are the languages I use the most on a daily basis <br/>
+<br/>
 📫 How to reach me: <a href="https://www.linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a> <br/>
 🔭 Educational plateform realized during my 2-year technical degree (DUT) intership: <a href="https://hub.docker.com/r/nharelys/ctf?fbclid=IwAR0ldj-FaFVvXaWDrzCUlQIgv1UkP6c5ZmCLCGhJRAjh1mDrGnd-0MhtwEQ">FantasyBook</a>
