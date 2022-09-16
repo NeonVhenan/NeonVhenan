@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 👋 Hi, My name is Pauline, and I'm French (she/her) <br/>
-🌱 Worked as a Junior Tools Programmer at Ubisoft Montpellier (France) as part of my Master degree at the University of Montpellier, France from January to July 2022<br/>
-📖 Earned a Master degree in Computer Science called IMAGINE (image and video game) at Montpellier University, France (July 2022)<br/>
-⚡ Previously enrolled as a BSc Digital Media student at Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
+🌱 Worked as a Junior Tools Programmer at Ubisoft Montpellier (France) as part of my Master degree from January to July 2022<br/>
+📖 Earned a Master degree in Computer Science called IMAGINE (image and video game) from Montpellier University, France (July 2022)<br/>
+⚡ Earned a BSc in Digital Media from the Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
 ✨ GOOD MORNING THEDAS Podcasrs co-host since June 2020 <br/>
 👀 I’m looking to work as a Gameplay Programmer, or, later, as a Game/Narrative Designer <br/>
