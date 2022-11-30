@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
 ✨ GOOD MORNING THEDAS Podcast co-host since June 2020 <br/>
 👀 I’m looking to work in the game industry as a Game Programmer (UI, Gameplay, UI) or a Narrative Designer <br/>
-💻 Favourite languages: C#, C++ <br/>
+💻 Favourite programming languages: C#, C++ <br/>
 💬 French and English are the languages I use the most on a daily basis <br/>
 <br/>
 📫 How to reach me: <a href="https://www.linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a> <br/>
