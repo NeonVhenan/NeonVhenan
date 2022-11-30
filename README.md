@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 📖 Earned a Master degree in Computer Science called IMAGINE (image and video game) from Montpellier University, France (July 2022)<br/>
 ⚡ Earned a BSc in Digital Media from the Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
 💞️ I’m interested in Computer Science, games, languages and writing <br/>
-✨ GOOD MORNING THEDAS Podcasrs co-host since June 2020 <br/>
-👀 I’m looking to work as a Game Programmer, or, later, as a Game/Narrative Designer <br/>
+✨ GOOD MORNING THEDAS Podcast co-host since June 2020 <br/>
+👀 I’m looking to work in the game industry as a Game Programmer (UI, Gameplay, UI) or a Narrative Designer <br/>
+💻 Favourite languages: C#, C++ <br/>
 💬 French and English are the languages I use the most on a daily basis <br/>
 <br/>
 📫 How to reach me: <a href="https://www.linkedin.com/in/pauline-cespedes-487230140/">Linkedin</a> <br/>
