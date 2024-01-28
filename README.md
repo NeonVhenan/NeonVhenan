@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-👋 Hi, My name is Pauline, and I'm French (she/her) <br/>
+👋 Hi, My name is Pauline, and I'm a French Compliance Analyst at Nacon (she/her) <br/>
 🌱 Worked as a Junior Tools Programmer at Ubisoft Montpellier (France) as part of my Master degree from January to July 2022<br/>
 📖 Earned a Master degree in Computer Science called IMAGINE (image and video game) from Montpellier University, France (July 2022)<br/>
 ⚡ Earned a BSc in Digital Media from the Robert Gordon University aka RGU in Aberdeen, Scotland, UK <br/>
